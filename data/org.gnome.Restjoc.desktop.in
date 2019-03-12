@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=restjoc
+Exec=restjoc
+Terminal=false
+Type=Application
+Categories=GTK;
+Icon=org.gnome.restjoc
+StartupNotify=true

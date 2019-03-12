@@ -1,0 +1,7 @@
+data/org.gnome.Restjoc.desktop.in
+data/org.gnome.Restjoc.appdata.xml.in
+data/org.gnome.Restjoc.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
